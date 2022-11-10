@@ -1,0 +1,1 @@
+# pratik-cift-sayi-toplam
